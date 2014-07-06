@@ -6,10 +6,13 @@
 
 include("header.php");
 include("footer.php");
+include("functions.php");
 
 ?>
 
 <div class="square">
   
 </div>
-<div class="square"></div>
+<div class="square">
+
+</div>
