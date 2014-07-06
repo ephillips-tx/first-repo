@@ -9,7 +9,7 @@ include("header.php");
 <form action="results.php" method="get">
 
 <?php 
-  for( inc in $num_incomes  ){ 
+  for( $inc in $num_incomes  ){ 
 ?>
     <select class="frequencies">
       <option value="Weekly" selected></option>
